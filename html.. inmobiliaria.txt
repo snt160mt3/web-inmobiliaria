@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Santiago Martinez Carrillo - Asesor Inmobiliario</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #3498db;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        section {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Santiago Martinez Carrillo</h1>
+    </header>
+
+    <section>
+        <p>En cada momento surge una oportunidad de negocios, ahora es el mejor.</p>
+        <p>Asesor Inmobiliario en la Riviera Maya, Cancún, Playa del Carmen, Tulum, Quintana Roo.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Santiago Martinez Carrillo | Asesor Inmobiliario</p>
+    </footer>
+
+</body>
+</html>
